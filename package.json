@@ -1,7 +1,7 @@
 {
   "name": "bitcore-lib-bitzec",
   "version": "0.13.19",
-  "description": "A pure and powerful JavaScript Zcash library.",
+  "description": "A pure and powerful JavaScript Bitzec library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
